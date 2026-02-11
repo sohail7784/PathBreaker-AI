@@ -1,0 +1,32 @@
+# PathBreaker AI
+
+**Your Complete Career Operating System**
+
+Track: Student Track - AI for Learning & Developer Productivity  
+Hackathon: AWS AI for Bharat 2026
+
+## Overview
+PathBreaker AI is an AI-powered platform that guides students from confusion to clarity, offering personalized career paths, learning roadmaps, earning strategies, and job assistance.
+
+## Core Features
+1. **PathFinder Pro** - Career guidance + Learning roadmaps
+2. **Escape Matrix** - ₹0 to earning strategies
+3. **Career Accelerator** - Resume builder + Job search + Interview prep
+4. **CodeMitra AI** - Coding assistant
+
+## Tech Stack
+- Frontend: React + Tailwind CSS
+- Backend: Python FastAPI
+- AI: AWS Bedrock (Claude), AWS Rekognition
+- Database: MongoDB + PostgreSQL
+- Deployment: AWS (EC2, Lambda, S3)
+
+## Built With
+- Kiro (AI-assisted development)
+- AWS Bedrock
+- Love ❤️
+
+---
+
+**Team:** Code Blaze  
+**Lead :** SOhail
